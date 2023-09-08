@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_IBYOQEtPEe6ecaSXmm7fcw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_IBYOQUtPEe6ecaSXmm7fcw" comment="" name="projectFolder" prompt="projectFolder?" promptNeeded="false" repositoryContextId="built-in" type="id_Directory" value="C:/PROJET_TALEND/ICOMMERCE/"/>
+  <contextParameter xmi:id="_IBYOQktPEe6ecaSXmm7fcw" comment="" name="fieldSeparator" prompt="fieldSeparator?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="|"/>
+  <contextParameter xmi:id="_IBYOQ0tPEe6ecaSXmm7fcw" comment="" name="encodage" prompt="encodage?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="UTF-8"/>
+</talendfile:ContextType>
