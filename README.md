@@ -11,7 +11,7 @@ I-charger les tables ODS (Operational Data Store) à partir des fichiers plats (
 
    1- Comprendre le fonctionnement du processus ETL (Extract Transform   Load) ainsi que la modélisation proposée.
 
-   2- Création de la base de données via pgAdmin 4 et exécution des différents scripts SQL.
+   2- Création de la base de données via Postgresql pgAdmin 4 et exécution des différents scripts SQL.
 
    3- Création du répertoire de données.
 
